@@ -11,6 +11,7 @@ home_urls = (
     'https://cooc.cloud',
     'https://baipiao.buzz',
     'https://hmkj3.com',
+    'https://sub.hazz.win',
 )
 times = 15
 proxies = {
