@@ -9,7 +9,8 @@ USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101
 
 home_urls = (
     'https://baipiao.buzz',
-    'https://whk.life',
+    'http://whk.life',
+    'https://freecloud.lol',
 )
 times = 15
 proxies = {
